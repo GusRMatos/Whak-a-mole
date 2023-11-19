@@ -13,8 +13,8 @@ const state = {
         resultStart: 0,
         result: 0,
 
-        currentTime: 10,
-        time: 10,
+        currentTime: 60,
+        time: 60,
 
         remaininglife: 10,
         life: 10,
